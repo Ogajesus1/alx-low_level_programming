@@ -1,2 +1,1 @@
-0-preprocessor
-low level programming using C
+Programming is like building a multilingual puzzle
